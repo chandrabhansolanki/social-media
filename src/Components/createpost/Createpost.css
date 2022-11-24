@@ -1,0 +1,109 @@
+.img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+.main {
+  /* width: 50%; */
+  border-radius: 10px;
+  background-color: rgb(202, 88, 88);
+  margin-left: 44%;
+}
+.inputwidth {
+  width: 80%;
+  border-radius: 50px;
+  border: none;
+  background-color: lightgrey;
+  padding: 8px;
+}
+
+.yes {
+  padding: 5px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: lightgrey;
+}
+.videoicon {
+  width: 40px;
+  height: 30px;
+}
+.livetext {
+  font-size: 16px;
+  color: gray;
+  font-weight: bold;
+}
+
+.photoicon {
+  width: 40px;
+  height: 30px;
+}
+
+.phototext {
+  font-size: 16px;
+  color: gray;
+  font-weight: bold;
+}
+.feelingicon {
+  width: 40px;
+  height: 30px;
+}
+.feeltext {
+  font-size: 16px;
+  color: gray;
+  font-weight: bold;
+}
+/* .baap {
+  width: 70%; 
+
+   margin-left: 70px;
+} */
+
+.no {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: lightgrey;
+}
+.frnd {
+  margin-left: 9px;
+  margin-top: -10px;
+  height: 22px;
+}
+.fufrnd {
+  width: 20px;
+  height: 20px;
+  margin-top: 3px;
+}
+.ptext {
+  font-size: 16px;
+  font-weight: bold;
+}
+.teer {
+  width: 25px;
+  height: 25px;
+}
+.txtarea {
+  width: 90%;
+  border: none;
+  background-color: lightgray;
+  border-radius: 30px;
+}
+
+.footers {
+  width: 100%;
+}
+
+.lm {
+  width: 40%;
+  height: 30%;
+  margin: 10px;
+  background-color: rgb(142, 225, 217);
+}
+.xoxo {
+  /* margin: 100px; */
+  position: relative;
+  /* border: 1px solid black; */
+}
+
+.hiiii {
+  margin: 100 px;
+}

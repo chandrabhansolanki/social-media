@@ -1,0 +1,41 @@
+body {
+  background-color: #f1f2f5;
+}
+
+input {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+form {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+form p {
+  font-size: 1.2rem;
+}
+
+.link-div a {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.login-btn {
+  font-weight: 500;
+}
+
+@media screen and (max-width: 1200px) and (min-width: 575px) {
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .form {
+    width: 500px;
+  }
+}
+
+/* https://pwaniteknowgalz.org/pwani-teknowgalz-launches-first-girls-in-technology-space-in-mombasa/# */
+
+/* https://www.illinoisderm.com/about-us/ */
